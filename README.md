@@ -1,2 +1,2 @@
 # Nerds
-Tha First Project (float-type)
+The First Project (float-type)
